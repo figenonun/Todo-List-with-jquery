@@ -1,0 +1,16 @@
+{
+  "name": "todolist",
+  "description": "todolist for enuygun.com",
+  "main": "index.html",
+  "keywords": [
+    "todolist"
+  ],
+  "authors": [
+    "figen onun"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7"
+  }
+}
